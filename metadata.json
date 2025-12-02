@@ -1,0 +1,7 @@
+{
+  "name": "OneiroAI: Professional Dream Analyzer",
+  "description": "An advanced AI-powered dream analysis tool designed for professional Oneirologists and individuals. It evaluates dream intensity levels, interprets symbolism, and provides psychological health reports including stress and sleep schedule analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
